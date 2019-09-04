@@ -1,3 +1,5 @@
+server:
+  port: 8102
 version: dev
 info: private
 name1: config-client
