@@ -1,1 +1,3 @@
 version: dev
+info: private
+name: config-client
